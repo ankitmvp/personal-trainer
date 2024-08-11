@@ -1,0 +1,5 @@
+.env
+myenv/bin
+myenv/include
+myenv/lib
+.DS_Store
